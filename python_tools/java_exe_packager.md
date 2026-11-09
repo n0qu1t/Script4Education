@@ -197,8 +197,6 @@ py -m pip install -r requirements.txt
 py java_exe_packager.py
 ```
 
-Hoặc nhấn đúp **`START_WINDOWS.bat`**. Đây là bộ khởi động giao diện chung.
-
 Để xem danh sách tham số CLI:
 
 ```powershell
